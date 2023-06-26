@@ -1,6 +1,21 @@
 
 /* Your CSS Code here. */
-. container{
+.container{
 	width: 200px;
-	background: purple;
+	background-color: purple;
+}
+
+.main{
+	
+	border-left: 5px solid green;
+	padding: 10px;
+	font-size: 20px;
+    color: white;
+	text-decoration: underline;
+
+
+
+
+
+	
 }
